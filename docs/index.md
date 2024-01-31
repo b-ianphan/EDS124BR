@@ -9,3 +9,5 @@ Assignment "Peer-graded Assignment: Teaching Programming Portfolio - Lesson Plan
 Assignment "Peer-graded Assignment: Show What You Know: Write and Explain A Program" - [Mouse Octagon](https://youtu.be/VTvvfHGpfzI)
 
 Assignment "Peer-graded Assignment: Show What You Know: Write and Explain A Program" - [Banana Monkey](https://youtu.be/OMGn1R6B9CE)
+
+"Peer-graded Assignment: Show What You Know: Write and Explain A Program" - [Variables](https://youtu.be/Ml1rXUC81oM)
