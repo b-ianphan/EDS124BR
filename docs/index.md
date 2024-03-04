@@ -17,3 +17,5 @@ Assignment "Peer-graded Assignment: Show What You Know: Write and Explain A Prog
 "Peer-graded Assignment: Show What You Know: Write and Explain A Program" - [If-Else Dart Board](https://youtu.be/dly0kHvOmAo)
 
 "Peer-graded Assignment: Show What You Know: Write and Explain A Program" - [If-Else Moving Penguin at da Beach](https://youtu.be/WLwO-5xCiek)
+
+"Peer-graded Assignment: Show What You Know: Write and Explain A Program" - [Compound Conditionals](https://youtu.be/tsv6oyHq7XY)
